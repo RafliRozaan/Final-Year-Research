@@ -1,0 +1,55 @@
+﻿HES;Constituen 1;Constituen 2;Molar Ratio ;Density (g/cm3);Viscosity (mPa.s);Temperature (K)
+HES1;Decanoic Acid;Tetrabutyl-Ammonium Chloride ;2:1;917;265.3;2982
+HES2;Decanoic Acid;Tetraheptyl-Ammonium Chloride;2:1;891;172.9;2982
+HES3;Decanoic Acid;Methyltrioctyl-ammonium Bromide;2:1;942;576.5;2982
+HES4;Decanoic Acid;Methyltrioctyl-ammonium Chloride;2:1;896;783.4;2982
+HES5;Decanoic Acid;Tetraoctyl-ammonium Bromide;2:1;930;636.4;2982
+HES6;Decanoic Acid;Tetraoctyl-ammonium Chloride;2:1;889;472.6;2982
+HES7;Decanoic Acid;Tetraoctyl-ammonium Chloride;1.5:1;888;;2982
+HES8;Decanoic Acid;Lidocaine;2:1;958;237.5;2982
+HES9;Decanoic Acid;Lidocaine;3:1;950;208.5;2982
+HES10;Decanoic Acid;Lidocaine;4:1;942;142;2982
+HES11;Decanoic Acid;Sodium Dodecanoate;4:1;924;60.5;2982
+HES12;Dodecanoic Acid;Octanoic Acid;1:3;901;7.1;2982
+HES13;Dodecanoic Acid;Nonanoic Acid;1:3;897;8.6;2982
+HES14;Dodecanoic Acid;Decanoic Acid;1:2;894;10.8;2982
+HES15;Ethylparaben;Methyltrioctyl-ammonium Chloride;2:1;995;957.5;2982
+HES16;Ibuprofen;Tetraheptyl-ammonium Chloride;3:7;892;1029;2982
+HES17;DL-Menthol;Acetic Acid;1:1;931;8.7;2982
+HES18;DL-Menthol;Lactic Acid;1:2;1033;218.9;2982
+HES19;DL-Menthol;Pyruvic Acid;1:2;995;30;2982
+HES20;DL-Menthol;Dodecanoic Acid;2:1;894;24.4;2982
+HES21;DL-Menthol;HexadecanoicAcid;12:1;890;;2982
+HES22;DL-Menthol;3-Hydroxy Benzoic Acid;7:1;920;1420;2982
+HES23;DL-Menthol;2-Methyl-2,4-pentanediol;2:1;901;68.4;2982
+HES24;DL-Menthol;1-Decanol;2:1;871;28;2982
+HES25;DL-Menthol;Sesamol;1:1;1072;360;2982
+HES26;DL-Menthol;Thymol;1:1;929;180;2982
+HES27;DL-Menthol;Octanoic Acid;1.5:1;900;15.3;2982
+HES28;DL-Menthol;Decanoic Acid;1.5:1;897;18.9;2982
+HES29;DL-Menthol;Decanoic Acid;1:1;896;22;2982
+HES30;L-Menthol;DodecanoicAcid;3:1;893;28.1;2982
+HES31;L-Menthol;Tetradecanoic Acid;4:1;892;34;2982
+HES32;L-Menthol;Hexadecanoic Acid;5.67:1;881;15.3;3132
+HES33;L-Menthol;Octadecanoic Acid;9:1;881;166;3132
+HES34;L-Menthol;1-Tetradecanol;2:1;869;317;2982
+HES35;L-Menthol;Borneol;7:3;915;1104;2982
+HES36;L-Menthol;Camphor;1:1;924;164;2982
+HES37;L-Menthol;Sobrerol;19:1;876;67;3332
+HES38;L-Menthol;Thymol;1:1;933;381;2982
+HES39;Oleic Acid;Tetraheptyl-ammonium Chloride;2:1;867;2447;2982
+HES40;Thymol;2-Methyl-2,4-pentanediol;2:1;959;327;2982
+HES41;Thymol;1-Decanol;2:1;915;144;2982
+HES42;Thymol;Octanoic Acid;0.73:1;930;80;2982
+HES43;Thymol;Decanoic Acid;1:1;930;122;2982
+HES44;Thymol;Dodecanoic Acid;1.22:1;922;124;3032
+HES45;Thymol;Tetradecanoic Acid;3:1;928;87;3132
+HES46;Thymol;Hexadecanoic Acid;4:1;929;92;3132
+HES47;Thymol;Octadecanoic Acid;9:1;936;69;3182
+HES48;Thymol;Borneol;1:1;963;431;3082
+HES49;Thymol;Camphor;1:1;967;208;2982
+HES50;Thymol;Lidocaine;2:1;989;990;2982
+HES51;Trioctyl-phosphine Oxide;Decanoic Acid;1:1;881;390;2982
+HES52;Trioctyl-phosphine Oxide;Dodecanoic Acid;1:1;880;465;2982
+HES53;Trioctyl-phosphine Oxide;Phenol;1:2;933;124;2982
+HES54;Trioctyl-phosphine Oxide;Phenol;1:1;907;430;2982
