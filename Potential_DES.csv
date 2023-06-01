@@ -1,584 +1,793 @@
-HBA;HBD;Molar ratio;Temperature (K);Pressure (bar);;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;Formic acid; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;Formic acid;1&2;303.15;1;;;;;;;;;;
-choline chloride;Formic acid;1&2;313.15;1;;;;;;;;;;
-choline chloride;Formic acid;1&2;323.15;1;;;;;;;;;;
-choline chloride;Formic acid;1&2;333.15;1;;;;;;;;;;
-choline chloride;Formic acid;1&2;303.15;2;;;;;;;;;;
-choline chloride;Formic acid;1&2;313.15;2;;;;;;;;;;
-choline chloride;Formic acid;1&2;323.15;2;;;;;;;;;;
-choline chloride;Formic acid;1&2;333.15;2;;;;;;;;;;
-choline chloride;Formic acid;1&2;303.15;3;;;;;;;;;;
-choline chloride;Formic acid;1&2;313.15;3;;;;;;;;;;
-choline chloride;Formic acid;1&2;323.15;3;;;;;;;;;;
-choline chloride;Formic acid;1&2;333.15;3;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;guaiacol; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;guaiacol;1&2;303.15;1;;;;;;;;;;
-choline chloride;guaiacol;1&2;313.15;1;;;;;;;;;;
-choline chloride;guaiacol;1&2;323.15;1;;;;;;;;;;
-choline chloride;guaiacol;1&2;333.15;1;;;;;;;;;;
-choline chloride;guaiacol;1&2;303.15;2;;;;;;;;;;
-choline chloride;guaiacol;1&2;313.15;2;;;;;;;;;;
-choline chloride;guaiacol;1&2;323.15;2;;;;;;;;;;
-choline chloride;guaiacol;1&2;333.15;2;;;;;;;;;;
-choline chloride;guaiacol;1&2;303.15;3;;;;;;;;;;
-choline chloride;guaiacol;1&2;313.15;3;;;;;;;;;;
-choline chloride;guaiacol;1&2;323.15;3;;;;;;;;;;
-choline chloride;guaiacol;1&2;333.15;3;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;monoethanolamine; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;303.15;1;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;313.15;1;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;323.15;1;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;333.15;1;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;303.15;2;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;313.15;2;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;323.15;2;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;333.15;2;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;303.15;3;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;313.15;3;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;323.15;3;;;;;;;;;;
-choline chloride;monoethanolamine;1&2;333.15;3;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;Propionic Acid; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;303.15;1;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;313.15;1;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;323.15;1;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;333.15;1;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;303.15;2;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;313.15;2;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;323.15;2;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;333.15;2;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;303.15;3;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;313.15;3;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;323.15;3;;;;;;;;;;
-choline chloride;Propionic Acid;1&2;333.15;3;;;;;;;;;;
-choline chloride;urea; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;urea; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;urea; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;urea; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;urea; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;urea; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;urea; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;urea; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;urea; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;urea; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;urea; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;urea; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;urea;1&2;303.15;1;;;;;;;;;;
-choline chloride;urea;1&2;313.15;1;;;;;;;;;;
-choline chloride;urea;1&2;323.15;1;;;;;;;;;;
-choline chloride;urea;1&2;333.15;1;;;;;;;;;;
-choline chloride;urea;1&2;303.15;2;;;;;;;;;;
-choline chloride;urea;1&2;313.15;2;;;;;;;;;;
-choline chloride;urea;1&2;323.15;2;;;;;;;;;;
-choline chloride;urea;1&2;333.15;2;;;;;;;;;;
-choline chloride;urea;1&2;303.15;3;;;;;;;;;;
-choline chloride;urea;1&2;313.15;3;;;;;;;;;;
-choline chloride;urea;1&2;323.15;3;;;;;;;;;;
-choline chloride;urea;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;acetic  acid;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;Levulinic acid;1&3;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;1;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;2;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;3;;;;;;;;;;
-tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;1;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;2;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;3;;;;;;;;;;
-Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-Benzyltriethylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;1;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;2;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;3;;;;;;;;;;
-Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-choline chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-choline chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-choline chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;1;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;2;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;3;;;;;;;;;;
-methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-tetrabutylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-tetraethylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-Triethylmethylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;303.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;313.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;323.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;333.15;1;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;303.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;313.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;323.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;333.15;2;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;303.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;313.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;323.15;3;;;;;;;;;;
-tetramethylammonium chloride;acetic acid; 1& 4;333.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;303.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;313.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;323.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;333.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;303.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;313.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;323.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;333.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;303.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;313.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;323.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&2;333.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;303.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;313.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;323.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;333.15;1;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;303.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;313.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;323.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;333.15;2;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;303.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;313.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;323.15;3;;;;;;;;;;
-Tetrapropylammonium chloride;acetic acid;1&6;333.15;3;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
+HBA;HBD;Molar ratio;Temperature (C);Pressure (bar)
+acetylcholine chloride;Levulinic acid; 1& 1;303.15;1
+acetylcholine chloride;Levulinic acid; 1& 1;313.15;1
+acetylcholine chloride;Levulinic acid; 1& 1;323.15;1
+acetylcholine chloride;Levulinic acid; 1& 1;333.15;1
+acetylcholine chloride;Levulinic acid; 1& 1;303.15;2
+acetylcholine chloride;Levulinic acid; 1& 1;313.15;2
+acetylcholine chloride;Levulinic acid; 1& 1;323.15;2
+acetylcholine chloride;Levulinic acid; 1& 1;333.15;2
+acetylcholine chloride;Levulinic acid; 1& 1;303.15;3
+acetylcholine chloride;Levulinic acid; 1& 1;313.15;3
+acetylcholine chloride;Levulinic acid; 1& 1;323.15;3
+acetylcholine chloride;Levulinic acid; 1& 1;333.15;3
+acetylcholine chloride;Levulinic acid;1&2;303.15;1
+acetylcholine chloride;Levulinic acid;1&2;313.15;1
+acetylcholine chloride;Levulinic acid;1&2;323.15;1
+acetylcholine chloride;Levulinic acid;1&2;333.15;1
+acetylcholine chloride;Levulinic acid;1&2;303.15;2
+acetylcholine chloride;Levulinic acid;1&2;313.15;2
+acetylcholine chloride;Levulinic acid;1&2;323.15;2
+acetylcholine chloride;Levulinic acid;1&2;333.15;2
+acetylcholine chloride;Levulinic acid;1&2;303.15;3
+acetylcholine chloride;Levulinic acid;1&2;313.15;3
+acetylcholine chloride;Levulinic acid;1&2;323.15;3
+acetylcholine chloride;Levulinic acid;1&2;333.15;3
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;303.15;1
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;313.15;1
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;323.15;1
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;333.15;1
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;303.15;2
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;313.15;2
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;323.15;2
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;333.15;2
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;303.15;3
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;313.15;3
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;323.15;3
+methyltriphenylphosphonium bromide;Levulinic acid; 1& 1;333.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;303.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;313.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;323.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;333.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;303.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;313.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;323.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;333.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;303.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;313.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;323.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&2;333.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;303.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;313.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;323.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;333.15;1
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;303.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;313.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;323.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;333.15;2
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;303.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;313.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;323.15;3
+methyltriphenylphosphonium bromide;Levulinic acid;1&3;333.15;3
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;1
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;1
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;1
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;1
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;2
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;2
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;2
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;2
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;3
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;3
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;3
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;3
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;1
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;1
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;1
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;1
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;2
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;2
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;2
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;2
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;3
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;3
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;3
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;3
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;1
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;1
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;1
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;1
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;2
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;2
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;2
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;2
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;3
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;3
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;3
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;3
+tetrabutylammonium chloride;Levulinic acid; 1& 1;303.15;1
+tetrabutylammonium chloride;Levulinic acid; 1& 1;313.15;1
+tetrabutylammonium chloride;Levulinic acid; 1& 1;323.15;1
+tetrabutylammonium chloride;Levulinic acid; 1& 1;333.15;1
+tetrabutylammonium chloride;Levulinic acid; 1& 1;303.15;2
+tetrabutylammonium chloride;Levulinic acid; 1& 1;313.15;2
+tetrabutylammonium chloride;Levulinic acid; 1& 1;323.15;2
+tetrabutylammonium chloride;Levulinic acid; 1& 1;333.15;2
+tetrabutylammonium chloride;Levulinic acid; 1& 1;303.15;3
+tetrabutylammonium chloride;Levulinic acid; 1& 1;313.15;3
+tetrabutylammonium chloride;Levulinic acid; 1& 1;323.15;3
+tetrabutylammonium chloride;Levulinic acid; 1& 1;333.15;3
+tetrabutylammonium chloride;Levulinic acid;1&2;303.15;1
+tetrabutylammonium chloride;Levulinic acid;1&2;313.15;1
+tetrabutylammonium chloride;Levulinic acid;1&2;323.15;1
+tetrabutylammonium chloride;Levulinic acid;1&2;333.15;1
+tetrabutylammonium chloride;Levulinic acid;1&2;303.15;2
+tetrabutylammonium chloride;Levulinic acid;1&2;313.15;2
+tetrabutylammonium chloride;Levulinic acid;1&2;323.15;2
+tetrabutylammonium chloride;Levulinic acid;1&2;333.15;2
+tetrabutylammonium chloride;Levulinic acid;1&2;303.15;3
+tetrabutylammonium chloride;Levulinic acid;1&2;313.15;3
+tetrabutylammonium chloride;Levulinic acid;1&2;323.15;3
+tetrabutylammonium chloride;Levulinic acid;1&2;333.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 1;303.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 1;313.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 1;323.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 1;333.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 1;303.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 1;313.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 1;323.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 1;333.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 1;303.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 1;313.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 1;323.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 1;333.15;3
+tetraethylammonium bromide;Levulinic acid;1&2;303.15;1
+tetraethylammonium bromide;Levulinic acid;1&2;313.15;1
+tetraethylammonium bromide;Levulinic acid;1&2;323.15;1
+tetraethylammonium bromide;Levulinic acid;1&2;333.15;1
+tetraethylammonium bromide;Levulinic acid;1&2;303.15;2
+tetraethylammonium bromide;Levulinic acid;1&2;313.15;2
+tetraethylammonium bromide;Levulinic acid;1&2;323.15;2
+tetraethylammonium bromide;Levulinic acid;1&2;333.15;2
+tetraethylammonium bromide;Levulinic acid;1&2;303.15;3
+tetraethylammonium bromide;Levulinic acid;1&2;313.15;3
+tetraethylammonium bromide;Levulinic acid;1&2;323.15;3
+tetraethylammonium bromide;Levulinic acid;1&2;333.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 3;303.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 3;313.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 3;323.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 3;333.15;1
+tetraethylammonium bromide;Levulinic acid; 1& 3;303.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 3;313.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 3;323.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 3;333.15;2
+tetraethylammonium bromide;Levulinic acid; 1& 3;303.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 3;313.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 3;323.15;3
+tetraethylammonium bromide;Levulinic acid; 1& 3;333.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 1;303.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 1;313.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 1;323.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 1;333.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 1;303.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 1;313.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 1;323.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 1;333.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 1;303.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 1;313.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 1;323.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 1;333.15;3
+tetraethylammonium chloride;Levulinic acid;1&2;303.15;1
+tetraethylammonium chloride;Levulinic acid;1&2;313.15;1
+tetraethylammonium chloride;Levulinic acid;1&2;323.15;1
+tetraethylammonium chloride;Levulinic acid;1&2;333.15;1
+tetraethylammonium chloride;Levulinic acid;1&2;303.15;2
+tetraethylammonium chloride;Levulinic acid;1&2;313.15;2
+tetraethylammonium chloride;Levulinic acid;1&2;323.15;2
+tetraethylammonium chloride;Levulinic acid;1&2;333.15;2
+tetraethylammonium chloride;Levulinic acid;1&2;303.15;3
+tetraethylammonium chloride;Levulinic acid;1&2;313.15;3
+tetraethylammonium chloride;Levulinic acid;1&2;323.15;3
+tetraethylammonium chloride;Levulinic acid;1&2;333.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 3;303.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 3;313.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 3;323.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 3;333.15;1
+tetraethylammonium chloride;Levulinic acid; 1& 3;303.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 3;313.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 3;323.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 3;333.15;2
+tetraethylammonium chloride;Levulinic acid; 1& 3;303.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 3;313.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 3;323.15;3
+tetraethylammonium chloride;Levulinic acid; 1& 3;333.15;3
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;303.15;1
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;313.15;1
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;323.15;1
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;333.15;1
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;303.15;2
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;313.15;2
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;323.15;2
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;333.15;2
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;303.15;3
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;313.15;3
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;323.15;3
+Triethylmethylammonium chloride;Levulinic acid; 1& 1;333.15;3
+Triethylmethylammonium chloride;Levulinic acid;1&2;303.15;1
+Triethylmethylammonium chloride;Levulinic acid;1&2;313.15;1
+Triethylmethylammonium chloride;Levulinic acid;1&2;323.15;1
+Triethylmethylammonium chloride;Levulinic acid;1&2;333.15;1
+Triethylmethylammonium chloride;Levulinic acid;1&2;303.15;2
+Triethylmethylammonium chloride;Levulinic acid;1&2;313.15;2
+Triethylmethylammonium chloride;Levulinic acid;1&2;323.15;2
+Triethylmethylammonium chloride;Levulinic acid;1&2;333.15;2
+Triethylmethylammonium chloride;Levulinic acid;1&2;303.15;3
+Triethylmethylammonium chloride;Levulinic acid;1&2;313.15;3
+Triethylmethylammonium chloride;Levulinic acid;1&2;323.15;3
+Triethylmethylammonium chloride;Levulinic acid;1&2;333.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;303.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;313.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;323.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid; 1& 1;333.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;1
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;2
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;303.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;313.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;323.15;3
+N-benzyl-2-hydroxy-N.N-dimethyl ethanaminium chloride;acetic acid;1&2;333.15;3
+Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;1
+Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;1
+Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;1
+Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;1
+Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;2
+Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;2
+Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;2
+Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;2
+Benzyltriethylammonium chloride;acetic acid; 1& 1;303.15;3
+Benzyltriethylammonium chloride;acetic acid; 1& 1;313.15;3
+Benzyltriethylammonium chloride;acetic acid; 1& 1;323.15;3
+Benzyltriethylammonium chloride;acetic acid; 1& 1;333.15;3
+Benzyltriethylammonium chloride;acetic acid;1&2;303.15;1
+Benzyltriethylammonium chloride;acetic acid;1&2;313.15;1
+Benzyltriethylammonium chloride;acetic acid;1&2;323.15;1
+Benzyltriethylammonium chloride;acetic acid;1&2;333.15;1
+Benzyltriethylammonium chloride;acetic acid;1&2;303.15;2
+Benzyltriethylammonium chloride;acetic acid;1&2;313.15;2
+Benzyltriethylammonium chloride;acetic acid;1&2;323.15;2
+Benzyltriethylammonium chloride;acetic acid;1&2;333.15;2
+Benzyltriethylammonium chloride;acetic acid;1&2;303.15;3
+Benzyltriethylammonium chloride;acetic acid;1&2;313.15;3
+Benzyltriethylammonium chloride;acetic acid;1&2;323.15;3
+Benzyltriethylammonium chloride;acetic acid;1&2;333.15;3
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;1
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;1
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;1
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;1
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;2
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;2
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;2
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;2
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;303.15;3
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;313.15;3
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;323.15;3
+Benzyltrimethylammonium chloride;acetic acid; 1& 1;333.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&2;303.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&2;313.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&2;323.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&2;333.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;1
+Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;2
+Benzyltrimethylammonium chloride;acetic acid;1&3;303.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&3;313.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&3;323.15;3
+Benzyltrimethylammonium chloride;acetic acid;1&3;333.15;3
+choline chloride;acetic acid; 1& 1;303.15;1
+choline chloride;acetic acid; 1& 1;313.15;1
+choline chloride;acetic acid; 1& 1;323.15;1
+choline chloride;acetic acid; 1& 1;333.15;1
+choline chloride;acetic acid; 1& 1;303.15;2
+choline chloride;acetic acid; 1& 1;313.15;2
+choline chloride;acetic acid; 1& 1;323.15;2
+choline chloride;acetic acid; 1& 1;333.15;2
+choline chloride;acetic acid; 1& 1;303.15;3
+choline chloride;acetic acid; 1& 1;313.15;3
+choline chloride;acetic acid; 1& 1;323.15;3
+choline chloride;acetic acid; 1& 1;333.15;3
+choline chloride;acetic acid;1&2;303.15;1
+choline chloride;acetic acid;1&2;313.15;1
+choline chloride;acetic acid;1&2;323.15;1
+choline chloride;acetic acid;1&2;333.15;1
+choline chloride;acetic acid;1&2;303.15;2
+choline chloride;acetic acid;1&2;313.15;2
+choline chloride;acetic acid;1&2;323.15;2
+choline chloride;acetic acid;1&2;333.15;2
+choline chloride;acetic acid;1&2;303.15;3
+choline chloride;acetic acid;1&2;313.15;3
+choline chloride;acetic acid;1&2;323.15;3
+choline chloride;acetic acid;1&2;333.15;3
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;1
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;1
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;1
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;1
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;2
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;2
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;2
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;2
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;303.15;3
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;313.15;3
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;323.15;3
+methyltriphenylphosphonium bromide;acetic acid; 1& 1;333.15;3
+methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;1
+methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;1
+methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;1
+methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;1
+methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;2
+methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;2
+methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;2
+methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;2
+methyltriphenylphosphonium bromide;acetic acid;1&2;303.15;3
+methyltriphenylphosphonium bromide;acetic acid;1&2;313.15;3
+methyltriphenylphosphonium bromide;acetic acid;1&2;323.15;3
+methyltriphenylphosphonium bromide;acetic acid;1&2;333.15;3
+tetrabutylammonium chloride;acetic acid; 1& 1;303.15;1
+tetrabutylammonium chloride;acetic acid; 1& 1;313.15;1
+tetrabutylammonium chloride;acetic acid; 1& 1;323.15;1
+tetrabutylammonium chloride;acetic acid; 1& 1;333.15;1
+tetrabutylammonium chloride;acetic acid; 1& 1;303.15;2
+tetrabutylammonium chloride;acetic acid; 1& 1;313.15;2
+tetrabutylammonium chloride;acetic acid; 1& 1;323.15;2
+tetrabutylammonium chloride;acetic acid; 1& 1;333.15;2
+tetrabutylammonium chloride;acetic acid; 1& 1;303.15;3
+tetrabutylammonium chloride;acetic acid; 1& 1;313.15;3
+tetrabutylammonium chloride;acetic acid; 1& 1;323.15;3
+tetrabutylammonium chloride;acetic acid; 1& 1;333.15;3
+tetrabutylammonium chloride;acetic acid;1&2;303.15;1
+tetrabutylammonium chloride;acetic acid;1&2;313.15;1
+tetrabutylammonium chloride;acetic acid;1&2;323.15;1
+tetrabutylammonium chloride;acetic acid;1&2;333.15;1
+tetrabutylammonium chloride;acetic acid;1&2;303.15;2
+tetrabutylammonium chloride;acetic acid;1&2;313.15;2
+tetrabutylammonium chloride;acetic acid;1&2;323.15;2
+tetrabutylammonium chloride;acetic acid;1&2;333.15;2
+tetrabutylammonium chloride;acetic acid;1&2;303.15;3
+tetrabutylammonium chloride;acetic acid;1&2;313.15;3
+tetrabutylammonium chloride;acetic acid;1&2;323.15;3
+tetrabutylammonium chloride;acetic acid;1&2;333.15;3
+tetraethylammonium chloride;acetic acid; 1& 1;303.15;1
+tetraethylammonium chloride;acetic acid; 1& 1;313.15;1
+tetraethylammonium chloride;acetic acid; 1& 1;323.15;1
+tetraethylammonium chloride;acetic acid; 1& 1;333.15;1
+tetraethylammonium chloride;acetic acid; 1& 1;303.15;2
+tetraethylammonium chloride;acetic acid; 1& 1;313.15;2
+tetraethylammonium chloride;acetic acid; 1& 1;323.15;2
+tetraethylammonium chloride;acetic acid; 1& 1;333.15;2
+tetraethylammonium chloride;acetic acid; 1& 1;303.15;3
+tetraethylammonium chloride;acetic acid; 1& 1;313.15;3
+tetraethylammonium chloride;acetic acid; 1& 1;323.15;3
+tetraethylammonium chloride;acetic acid; 1& 1;333.15;3
+tetraethylammonium chloride;acetic acid;1&2;303.15;1
+tetraethylammonium chloride;acetic acid;1&2;313.15;1
+tetraethylammonium chloride;acetic acid;1&2;323.15;1
+tetraethylammonium chloride;acetic acid;1&2;333.15;1
+tetraethylammonium chloride;acetic acid;1&2;303.15;2
+tetraethylammonium chloride;acetic acid;1&2;313.15;2
+tetraethylammonium chloride;acetic acid;1&2;323.15;2
+tetraethylammonium chloride;acetic acid;1&2;333.15;2
+tetraethylammonium chloride;acetic acid;1&2;303.15;3
+tetraethylammonium chloride;acetic acid;1&2;313.15;3
+tetraethylammonium chloride;acetic acid;1&2;323.15;3
+tetraethylammonium chloride;acetic acid;1&2;333.15;3
+Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;1
+Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;1
+Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;1
+Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;1
+Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;2
+Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;2
+Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;2
+Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;2
+Triethylmethylammonium chloride;acetic acid; 1& 1;303.15;3
+Triethylmethylammonium chloride;acetic acid; 1& 1;313.15;3
+Triethylmethylammonium chloride;acetic acid; 1& 1;323.15;3
+Triethylmethylammonium chloride;acetic acid; 1& 1;333.15;3
+Triethylmethylammonium chloride;acetic acid;1&2;303.15;1
+Triethylmethylammonium chloride;acetic acid;1&2;313.15;1
+Triethylmethylammonium chloride;acetic acid;1&2;323.15;1
+Triethylmethylammonium chloride;acetic acid;1&2;333.15;1
+Triethylmethylammonium chloride;acetic acid;1&2;303.15;2
+Triethylmethylammonium chloride;acetic acid;1&2;313.15;2
+Triethylmethylammonium chloride;acetic acid;1&2;323.15;2
+Triethylmethylammonium chloride;acetic acid;1&2;333.15;2
+Triethylmethylammonium chloride;acetic acid;1&2;303.15;3
+Triethylmethylammonium chloride;acetic acid;1&2;313.15;3
+Triethylmethylammonium chloride;acetic acid;1&2;323.15;3
+Triethylmethylammonium chloride;acetic acid;1&2;333.15;3
+tetramethylammonium chloride;acetic acid; 1& 1;303.15;1
+tetramethylammonium chloride;acetic acid; 1& 1;313.15;1
+tetramethylammonium chloride;acetic acid; 1& 1;323.15;1
+tetramethylammonium chloride;acetic acid; 1& 1;333.15;1
+tetramethylammonium chloride;acetic acid; 1& 1;303.15;2
+tetramethylammonium chloride;acetic acid; 1& 1;313.15;2
+tetramethylammonium chloride;acetic acid; 1& 1;323.15;2
+tetramethylammonium chloride;acetic acid; 1& 1;333.15;2
+tetramethylammonium chloride;acetic acid; 1& 1;303.15;3
+tetramethylammonium chloride;acetic acid; 1& 1;313.15;3
+tetramethylammonium chloride;acetic acid; 1& 1;323.15;3
+tetramethylammonium chloride;acetic acid; 1& 1;333.15;3
+tetramethylammonium chloride;acetic acid;1&2;303.15;1
+tetramethylammonium chloride;acetic acid;1&2;313.15;1
+tetramethylammonium chloride;acetic acid;1&2;323.15;1
+tetramethylammonium chloride;acetic acid;1&2;333.15;1
+tetramethylammonium chloride;acetic acid;1&2;303.15;2
+tetramethylammonium chloride;acetic acid;1&2;313.15;2
+tetramethylammonium chloride;acetic acid;1&2;323.15;2
+tetramethylammonium chloride;acetic acid;1&2;333.15;2
+tetramethylammonium chloride;acetic acid;1&2;303.15;3
+tetramethylammonium chloride;acetic acid;1&2;313.15;3
+tetramethylammonium chloride;acetic acid;1&2;323.15;3
+tetramethylammonium chloride;acetic acid;1&2;333.15;3
+tetramethylammonium chloride;acetic acid; 1& 4;303.15;1
+tetramethylammonium chloride;acetic acid; 1& 4;313.15;1
+tetramethylammonium chloride;acetic acid; 1& 4;323.15;1
+tetramethylammonium chloride;acetic acid; 1& 4;333.15;1
+tetramethylammonium chloride;acetic acid; 1& 4;303.15;2
+tetramethylammonium chloride;acetic acid; 1& 4;313.15;2
+tetramethylammonium chloride;acetic acid; 1& 4;323.15;2
+tetramethylammonium chloride;acetic acid; 1& 4;333.15;2
+tetramethylammonium chloride;acetic acid; 1& 4;303.15;3
+tetramethylammonium chloride;acetic acid; 1& 4;313.15;3
+tetramethylammonium chloride;acetic acid; 1& 4;323.15;3
+tetramethylammonium chloride;acetic acid; 1& 4;333.15;3
+Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;1
+Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;1
+Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;1
+Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;1
+Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;2
+Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;2
+Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;2
+Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;2
+Tetrapropylammonium chloride;acetic acid; 1& 1;303.15;3
+Tetrapropylammonium chloride;acetic acid; 1& 1;313.15;3
+Tetrapropylammonium chloride;acetic acid; 1& 1;323.15;3
+Tetrapropylammonium chloride;acetic acid; 1& 1;333.15;3
+Tetrapropylammonium chloride;acetic acid;1&2;303.15;1
+Tetrapropylammonium chloride;acetic acid;1&2;313.15;1
+Tetrapropylammonium chloride;acetic acid;1&2;323.15;1
+Tetrapropylammonium chloride;acetic acid;1&2;333.15;1
+Tetrapropylammonium chloride;acetic acid;1&2;303.15;2
+Tetrapropylammonium chloride;acetic acid;1&2;313.15;2
+Tetrapropylammonium chloride;acetic acid;1&2;323.15;2
+Tetrapropylammonium chloride;acetic acid;1&2;333.15;2
+Tetrapropylammonium chloride;acetic acid;1&2;303.15;3
+Tetrapropylammonium chloride;acetic acid;1&2;313.15;3
+Tetrapropylammonium chloride;acetic acid;1&2;323.15;3
+Tetrapropylammonium chloride;acetic acid;1&2;333.15;3
+Tetrapropylammonium chloride;acetic acid;1&6;303.15;1
+Tetrapropylammonium chloride;acetic acid;1&6;313.15;1
+Tetrapropylammonium chloride;acetic acid;1&6;323.15;1
+Tetrapropylammonium chloride;acetic acid;1&6;333.15;1
+Tetrapropylammonium chloride;acetic acid;1&6;303.15;2
+Tetrapropylammonium chloride;acetic acid;1&6;313.15;2
+Tetrapropylammonium chloride;acetic acid;1&6;323.15;2
+Tetrapropylammonium chloride;acetic acid;1&6;333.15;2
+Tetrapropylammonium chloride;acetic acid;1&6;303.15;3
+Tetrapropylammonium chloride;acetic acid;1&6;313.15;3
+Tetrapropylammonium chloride;acetic acid;1&6;323.15;3
+Tetrapropylammonium chloride;acetic acid;1&6;333.15;3
+tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;303.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;313.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;323.15;
+tetrabutylammonium bromide;acetic  acid; 1& 1;333.15;
+tetrabutylammonium bromide;acetic  acid;1&2;303.15;
+tetrabutylammonium bromide;acetic  acid;1&2;313.15;
+tetrabutylammonium bromide;acetic  acid;1&2;323.15;
+tetrabutylammonium bromide;acetic  acid;1&2;333.15;
+tetrabutylammonium bromide;acetic  acid;1&2;303.15;
+tetrabutylammonium bromide;acetic  acid;1&2;313.15;
+tetrabutylammonium bromide;acetic  acid;1&2;323.15;
+tetrabutylammonium bromide;acetic  acid;1&2;333.15;
+tetrabutylammonium bromide;acetic  acid;1&2;303.15;
+tetrabutylammonium bromide;acetic  acid;1&2;313.15;
+tetrabutylammonium bromide;acetic  acid;1&2;323.15;
+tetrabutylammonium bromide;acetic  acid;1&2;333.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;303.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;313.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;323.15;
+tetrabutylammonium bromide;Levulinic acid; 1& 1;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&2;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;303.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;313.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;323.15;
+tetrabutylammonium bromide;Levulinic acid;1&3;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 1;333.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;303.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;313.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;323.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;333.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;303.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;313.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;323.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;333.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;303.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;313.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;323.15;
+tetrabutylammonium bromide;monoethanolamine;1&2;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;303.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;313.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;323.15;
+tetrabutylammonium bromide;monoethanolamine; 1& 6;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 1;333.15;
+tetrabutylammonium bromide;octanoic acid;1&2;303.15;
+tetrabutylammonium bromide;octanoic acid;1&2;313.15;
+tetrabutylammonium bromide;octanoic acid;1&2;323.15;
+tetrabutylammonium bromide;octanoic acid;1&2;333.15;
+tetrabutylammonium bromide;octanoic acid;1&2;303.15;
+tetrabutylammonium bromide;octanoic acid;1&2;313.15;
+tetrabutylammonium bromide;octanoic acid;1&2;323.15;
+tetrabutylammonium bromide;octanoic acid;1&2;333.15;
+tetrabutylammonium bromide;octanoic acid;1&2;303.15;
+tetrabutylammonium bromide;octanoic acid;1&2;313.15;
+tetrabutylammonium bromide;octanoic acid;1&2;323.15;
+tetrabutylammonium bromide;octanoic acid;1&2;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;303.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;313.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;323.15;
+tetrabutylammonium bromide;octanoic acid; 1& 4;333.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;303.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;313.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;323.15;
+Tetrabutylammonium bromide;Propionic Acid; 1& 1;333.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;303.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;313.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;323.15;
+Tetrabutylammonium bromide;Propionic Acid;1&2;333.15;
+choline chloride;acetic acid; 1& 1;303.15;1
+choline chloride;acetic acid; 1& 1;313.15;1
+choline chloride;acetic acid; 1& 1;323.15;1
+choline chloride;acetic acid; 1& 1;333.15;1
+choline chloride;acetic acid; 1& 1;303.15;2
+choline chloride;acetic acid; 1& 1;313.15;2
+choline chloride;acetic acid; 1& 1;323.15;2
+choline chloride;acetic acid; 1& 1;333.15;2
+choline chloride;acetic acid; 1& 1;303.15;3
+choline chloride;acetic acid; 1& 1;313.15;3
+choline chloride;acetic acid; 1& 1;323.15;3
+choline chloride;acetic acid; 1& 1;333.15;3
+choline chloride;acetic acid;1&2;303.15;1
+choline chloride;acetic acid;1&2;313.15;1
+choline chloride;acetic acid;1&2;323.15;1
+choline chloride;acetic acid;1&2;333.15;1
+choline chloride;acetic acid;1&2;303.15;2
+choline chloride;acetic acid;1&2;313.15;2
+choline chloride;acetic acid;1&2;323.15;2
+choline chloride;acetic acid;1&2;333.15;2
+choline chloride;acetic acid;1&2;303.15;3
+choline chloride;acetic acid;1&2;313.15;3
+choline chloride;acetic acid;1&2;323.15;3
+choline chloride;acetic acid;1&2;333.15;3
+choline chloride;Formic acid; 1& 1;303.15;1
+choline chloride;Formic acid; 1& 1;313.15;1
+choline chloride;Formic acid; 1& 1;323.15;1
+choline chloride;Formic acid; 1& 1;333.15;1
+choline chloride;Formic acid; 1& 1;303.15;2
+choline chloride;Formic acid; 1& 1;313.15;2
+choline chloride;Formic acid; 1& 1;323.15;2
+choline chloride;Formic acid; 1& 1;333.15;2
+choline chloride;Formic acid; 1& 1;303.15;3
+choline chloride;Formic acid; 1& 1;313.15;3
+choline chloride;Formic acid; 1& 1;323.15;3
+choline chloride;Formic acid; 1& 1;333.15;3
+choline chloride;Formic acid;1&2;303.15;1
+choline chloride;Formic acid;1&2;313.15;1
+choline chloride;Formic acid;1&2;323.15;1
+choline chloride;Formic acid;1&2;333.15;1
+choline chloride;Formic acid;1&2;303.15;2
+choline chloride;Formic acid;1&2;313.15;2
+choline chloride;Formic acid;1&2;323.15;2
+choline chloride;Formic acid;1&2;333.15;2
+choline chloride;Formic acid;1&2;303.15;3
+choline chloride;Formic acid;1&2;313.15;3
+choline chloride;Formic acid;1&2;323.15;3
+choline chloride;Formic acid;1&2;333.15;3
+choline chloride;guaiacol; 1& 1;303.15;1
+choline chloride;guaiacol; 1& 1;313.15;1
+choline chloride;guaiacol; 1& 1;323.15;1
+choline chloride;guaiacol; 1& 1;333.15;1
+choline chloride;guaiacol; 1& 1;303.15;2
+choline chloride;guaiacol; 1& 1;313.15;2
+choline chloride;guaiacol; 1& 1;323.15;2
+choline chloride;guaiacol; 1& 1;333.15;2
+choline chloride;guaiacol; 1& 1;303.15;3
+choline chloride;guaiacol; 1& 1;313.15;3
+choline chloride;guaiacol; 1& 1;323.15;3
+choline chloride;guaiacol; 1& 1;333.15;3
+choline chloride;guaiacol;1&2;303.15;1
+choline chloride;guaiacol;1&2;313.15;1
+choline chloride;guaiacol;1&2;323.15;1
+choline chloride;guaiacol;1&2;333.15;1
+choline chloride;guaiacol;1&2;303.15;2
+choline chloride;guaiacol;1&2;313.15;2
+choline chloride;guaiacol;1&2;323.15;2
+choline chloride;guaiacol;1&2;333.15;2
+choline chloride;guaiacol;1&2;303.15;3
+choline chloride;guaiacol;1&2;313.15;3
+choline chloride;guaiacol;1&2;323.15;3
+choline chloride;guaiacol;1&2;333.15;3
+choline chloride;monoethanolamine; 1& 1;303.15;1
+choline chloride;monoethanolamine; 1& 1;313.15;1
+choline chloride;monoethanolamine; 1& 1;323.15;1
+choline chloride;monoethanolamine; 1& 1;333.15;1
+choline chloride;monoethanolamine; 1& 1;303.15;2
+choline chloride;monoethanolamine; 1& 1;313.15;2
+choline chloride;monoethanolamine; 1& 1;323.15;2
+choline chloride;monoethanolamine; 1& 1;333.15;2
+choline chloride;monoethanolamine; 1& 1;303.15;3
+choline chloride;monoethanolamine; 1& 1;313.15;3
+choline chloride;monoethanolamine; 1& 1;323.15;3
+choline chloride;monoethanolamine; 1& 1;333.15;3
+choline chloride;monoethanolamine;1&2;303.15;1
+choline chloride;monoethanolamine;1&2;313.15;1
+choline chloride;monoethanolamine;1&2;323.15;1
+choline chloride;monoethanolamine;1&2;333.15;1
+choline chloride;monoethanolamine;1&2;303.15;2
+choline chloride;monoethanolamine;1&2;313.15;2
+choline chloride;monoethanolamine;1&2;323.15;2
+choline chloride;monoethanolamine;1&2;333.15;2
+choline chloride;monoethanolamine;1&2;303.15;3
+choline chloride;monoethanolamine;1&2;313.15;3
+choline chloride;monoethanolamine;1&2;323.15;3
+choline chloride;monoethanolamine;1&2;333.15;3
+choline chloride;Propionic Acid; 1& 1;303.15;1
+choline chloride;Propionic Acid; 1& 1;313.15;1
+choline chloride;Propionic Acid; 1& 1;323.15;1
+choline chloride;Propionic Acid; 1& 1;333.15;1
+choline chloride;Propionic Acid; 1& 1;303.15;2
+choline chloride;Propionic Acid; 1& 1;313.15;2
+choline chloride;Propionic Acid; 1& 1;323.15;2
+choline chloride;Propionic Acid; 1& 1;333.15;2
+choline chloride;Propionic Acid; 1& 1;303.15;3
+choline chloride;Propionic Acid; 1& 1;313.15;3
+choline chloride;Propionic Acid; 1& 1;323.15;3
+choline chloride;Propionic Acid; 1& 1;333.15;3
+choline chloride;Propionic Acid;1&2;303.15;1
+choline chloride;Propionic Acid;1&2;313.15;1
+choline chloride;Propionic Acid;1&2;323.15;1
+choline chloride;Propionic Acid;1&2;333.15;1
+choline chloride;Propionic Acid;1&2;303.15;2
+choline chloride;Propionic Acid;1&2;313.15;2
+choline chloride;Propionic Acid;1&2;323.15;2
+choline chloride;Propionic Acid;1&2;333.15;2
+choline chloride;Propionic Acid;1&2;303.15;3
+choline chloride;Propionic Acid;1&2;313.15;3
+choline chloride;Propionic Acid;1&2;323.15;3
+choline chloride;Propionic Acid;1&2;333.15;3
+choline chloride;urea; 1& 1;303.15;1
+choline chloride;urea; 1& 1;313.15;1
+choline chloride;urea; 1& 1;323.15;1
+choline chloride;urea; 1& 1;333.15;1
+choline chloride;urea; 1& 1;303.15;2
+choline chloride;urea; 1& 1;313.15;2
+choline chloride;urea; 1& 1;323.15;2
+choline chloride;urea; 1& 1;333.15;2
+choline chloride;urea; 1& 1;303.15;3
+choline chloride;urea; 1& 1;313.15;3
+choline chloride;urea; 1& 1;323.15;3
+choline chloride;urea; 1& 1;333.15;3
+choline chloride;urea;1&2;303.15;1
+choline chloride;urea;1&2;313.15;1
+choline chloride;urea;1&2;323.15;1
+choline chloride;urea;1&2;333.15;1
+choline chloride;urea;1&2;303.15;2
+choline chloride;urea;1&2;313.15;2
+choline chloride;urea;1&2;323.15;2
+choline chloride;urea;1&2;333.15;2
+choline chloride;urea;1&2;303.15;3
+choline chloride;urea;1&2;313.15;3
+choline chloride;urea;1&2;323.15;3
+choline chloride;urea;1&2;333.15;3
